@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import matplotlib.pyplot as plt 
 
+#Using Naive bayes classifier to detect spam comments
 
 # Loading .csv data into Panadas dataframe
 path = "C:/Users/hasee/OneDrive/Desktop/Comment spam detector Naive bayes classifier"
